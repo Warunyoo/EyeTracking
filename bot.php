@@ -1,1 +1,1 @@
-<?phpecho "I am a bot notify";
+<?php echo "I am a bot notify";
